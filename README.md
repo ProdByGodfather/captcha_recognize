@@ -47,7 +47,7 @@ you can also train over multiple GPUs
 ```
 python captcha_multi_gpu_train.py
 ```
-
+ 
 ## 4.evaluate
 ```
 python captcha_eval.py
